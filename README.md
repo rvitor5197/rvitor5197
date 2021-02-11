@@ -20,9 +20,9 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rvitor5197&show_icons=true&theme=dracula&title_color=ff1744&text_color=ff1744&bg_color=0b0b3b&locale=pt-br" alt="rvitor5197" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rvitor5197&show_icons=true&theme=dracula&title_color=ff1744&text_color=ff1744&bg_color=091921&locale=pt-br" alt="rvitor5197" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rvitor5197&show_icons=true&theme=dracula&title_color=ff1744&text_color=ff1744&bg_color=0b0b3b&locale=pt-br&layout=compact" alt="rvitor5197" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rvitor5197&show_icons=true&theme=dracula&title_color=ff1744&text_color=ff1744&bg_color=091921&locale=pt-br&layout=compact" alt="rvitor5197" />
 </p>
 
 
