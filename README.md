@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rvitor5197&label=Profile%20views&color=0b0b3b&style=flat-square" alt="rvitor5197" /> </p>
 
-<p align="center"> <a href="https://twitter.com/rvitor5197" target="blank"><img src="https://img.shields.io/twitter/follow/rvitor5197?logo=twitter&style=for-the-badge" alt="rvitor5197" /></a> </p>
-
 - 🌱 I’m currently learning about **Front-End development**
 
 - 📱Check my apps [https://play.google.com/store/apps/developer?id=Fonseca+Apps](https://play.google.com/store/apps/developer?id=Fonseca+Apps)
